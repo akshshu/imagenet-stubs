@@ -1,5 +1,5 @@
 import six
-
+#859isthelabel
 IMAGENET_2012_LABELS = {
     0: 'tench, Tinca tinca',
     1: 'goldfish, Carassius auratus',
@@ -860,7 +860,7 @@ IMAGENET_2012_LABELS = {
     856: 'thresher, thrasher, threshing machine',
     857: 'throne',
     858: 'tile roof',
-    859: 'dog',
+    859: 'rubixCube',
     860: 'tobacco shop, tobacconist shop, tobacconist',
     861: 'toilet seat',
     862: 'torch',
